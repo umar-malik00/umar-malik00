@@ -48,13 +48,18 @@ I build systems that push hardware and intelligence to their limits.
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&rows=3&line_height=25&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=01000011+01010010+01000101+01000001+01010100;01001001+01001110+01000111+00100000+01010111;01001111+01010010+01001100+01000100+01010011" alt="Binary Pixel Flow" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&column=5&margin-w=15&title=Stars,Commit,Repo,Followers,MultipleLang" alt="My Top 5 Trophies" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umar-malik00&theme=react-dark&area=true&category=commits" alt="Premium Activity Card" width="100%" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umar-malik00&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Modern Tech Stats Card" height="190" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&rows=3&line_height=25&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=01000011+01010010+01000101+01000001+01010100;01001001+01001110+01000111+00100000+01010111;01001111+01010010+01001100+01000100+01010011" alt="Binary Pixel Flow" />
+</p>
+
 ```text
  ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗ 
 ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗
