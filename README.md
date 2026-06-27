@@ -6,9 +6,8 @@
 
 ---
 
-### 🦖 PROJECT: CONTRIBUTION CRUSHER
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnandChowdhary/animate-images/main/images/running.gif" width="60" alt="Running Sprite" />
-  <code> [SYSTEM ALERT]: THE DRAGON IS DELETING MEMORY LEAKS... </code>
+  <img src="https://github-readme-stroke-heatmap.vercel.app/?user=umar-malik00&theme=matrix&hide_border=true" alt="Contribution Grid Feed" width="100%" />
 </p>
+
+---
