@@ -55,6 +55,3 @@ I build systems that push hardware and intelligence to their limits.
  ╚████╔╝ ██║███████║██║   ██║       ██║  ██║╚██████╔╝██║  ██║██║██║ ╚████║
   ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝       ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=100&color=FF3300&center=true&vCenter=true&width=500&lines=%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5;%E2%96%88%E2%96%92%E2%96%91%E2%96%88%E2%96%92%E2%96%91%E2%96%88;%5BSYSTEM_ON_FIRE%5D" alt="Flames" />
-</p>
