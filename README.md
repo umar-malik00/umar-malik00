@@ -50,15 +50,11 @@ I build systems that push hardware and intelligence to their limits.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&rows=3&line_height=25&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=01000011+01010010+01000101+01000001+01010100;01001001+01001110+01000111+00100000+01010111;01001111+01010010+01001100+01000100+01010011" alt="Binary Pixel Flow" />
 </p>
----
-<div class="large row">
-  <div class="medium pyramid">
-    <div class="triangle"></div>
-    <div class="square"></div>
-    <div class="circle"></div>
-  </div>
-</div>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&column=5&margin-w=15&title=Stars,Commit,Repo,Followers,MultipleLang" alt="My Top 5 Trophies" />
+  </a>
+</p>
 ```text
  ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗ 
 ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗
